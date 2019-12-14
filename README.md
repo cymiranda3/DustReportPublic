@@ -16,3 +16,4 @@ Please email us at cym8@cornell.edu or bfd27@cornell.edu! We'll begin posting em
 
 ### v0.3 (upcoming release)
 - Adding display of **all** classes (incl. a section for non-arts classes to allow users to double check that all their classes are there).
+- Add link to version history (this!)
